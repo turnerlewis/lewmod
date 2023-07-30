@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lewmod:block/arcane_block"
+    }
+  }
+}

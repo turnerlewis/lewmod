@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lewmod:item/tough_leather_helmet"
+  }
+}

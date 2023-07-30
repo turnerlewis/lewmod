@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "lewmod",
+	"version": "${version}",
+	"name": "Lew's Mod",
+	"description": "Lew's Mod! Stuff and things!",
+	"authors": [
+		"Lew_MC"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT Licence",
+	"icon": "assets/lewmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.lewmc.lewmod.LewMod"
+		],
+		"fabric-datagen": [
+			"net.lewmc.lewmod.datagen.ModDataGeneration"
+		]
+	},
+	"mixins": [
+		"lewmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.19.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

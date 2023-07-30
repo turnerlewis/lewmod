@@ -1,0 +1,14 @@
+{
+  "item.lewmod.shaded_leather": "Shaded Leather",
+  "item.lewmod.hardened_leather": "Hardened Leather",
+  "item.lewmod.arcane_shard": "Arcane Shard",
+  "item.lewmod.shiny_coin": "Shiny Coin",
+  "item.lewmod.tough_leather_helmet": "Tough Leather Helmet",
+  "item.lewmod.tough_leather_chestplate": "Tough Leather Chestplate",
+  "item.lewmod.tough_leather_leggings": "Tough Leather Leggings",
+  "item.lewmod.tough_leather_boots": "Tough Leather Boots",
+
+  "block.lewmod.arcane_block": "Block of Arcane Crystal",
+
+  "itemGroup.lewmod.lewmodtab": "LewMod"
+}

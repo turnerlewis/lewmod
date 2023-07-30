@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 1.5,
+  "group": "hardened_leather",
+  "ingredient": {
+    "item": "minecraft:leather"
+  },
+  "result": "lewmod:hardened_leather"
+}
