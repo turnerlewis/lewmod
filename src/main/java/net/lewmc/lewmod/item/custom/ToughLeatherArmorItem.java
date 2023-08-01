@@ -74,5 +74,5 @@ public class ToughLeatherArmorItem extends ArmorItem implements IAnimatable {
     public AnimationFactory getFactory() {
         return this.factory;
     }
-    }
+}
 

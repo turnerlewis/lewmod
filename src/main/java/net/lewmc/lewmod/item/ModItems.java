@@ -3,7 +3,6 @@ package net.lewmc.lewmod.item;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.lewmc.lewmod.LewMod;
 import net.lewmc.lewmod.item.custom.ShinyCoinItem;
-//import net.lewmc.lewmod.item.custom.ToughLeatherArmorItem;
 import net.lewmc.lewmod.item.custom.ToughLeatherArmorItem;
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.Item;

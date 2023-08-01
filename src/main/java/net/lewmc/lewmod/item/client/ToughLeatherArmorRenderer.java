@@ -7,14 +7,14 @@ public class ToughLeatherArmorRenderer extends GeoArmorRenderer<ToughLeatherArmo
     public ToughLeatherArmorRenderer() {
         super(new ToughLeatherArmorModel());
 
-        this.headBone = "helmet";
-        this.bodyBone = "chestplate";
-        this.rightArmBone = "rightArm";
-        this.leftArmBone = "leftArm";
-        this.rightLegBone = "rightLeg";
-        this.leftLegBone = "leftLeg";
-        this.rightBootBone = "rightBoot";
-        this.leftBootBone = "leftBoot";
+        this.headBone = "armorHead";
+        this.bodyBone = "armorBody";
+        this.rightArmBone = "armorRightArm";
+        this.leftArmBone = "armorLeftArm";
+        this.rightLegBone = "armorLeftLeg";
+        this.leftLegBone = "armorRightLeg";
+        this.rightBootBone = "armorLeftBoot";
+        this.leftBootBone = "armorRightBoot";
 
     }
 }
